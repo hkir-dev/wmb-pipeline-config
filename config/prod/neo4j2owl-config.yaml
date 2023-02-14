@@ -54,10 +54,10 @@ neo_node_labelling:
       - CL:4023051
       - RO:0015002 some CL:0000129
     label: VLMC
-  - classes:
-      - CL:4023065
-      - RO:0015002 some CL:4023065
-    label: Meis2
+  # - classes:
+  #     - CL:4023065
+  #     - RO:0015002 some CL:4023065
+  #   label: Meis2
   - classes:
       - UBERON:0002616
       - RO:0015002 some UBERON:0002616
