@@ -175,9 +175,9 @@ neo_node_labelling:
   - classes:
       - RO:0002100 some UBERON:0000956
     label: Cerebral_cortex
-  - classes:
-      - RO:0002100 some UBERON:0001384
-    label: Primary_motor_cortex
+  # - classes:
+  #     - RO:0002100 some UBERON:0001384
+  #   label: Primary_motor_cortex
   # - classes:
   #     - RO:0002100 some UBERON:0002771
   #   label: MTG
